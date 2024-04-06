@@ -1,1 +1,1 @@
-# EdwinGt-Lite
+EdwinGt-Lite
